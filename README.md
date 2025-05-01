@@ -14,7 +14,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 |--------|--------------------|----------------------------------------------------------------------------------------|-------|
 | <div align="center">⚪</div>      | May 1 - May 2      | multi: remove endpoints sendpayment, sendtoroute, sendtoroutesync, and sendpaymentsync | <div align="center">https://github.com/lightningnetwork/lnd/pull/8348</div> |
 | <div align="center">⚪</div>      | May 1 - May 2      | discovery+lnwire: add support for DNS host name in NodeAnnouncement msg                | <div align="center">https://github.com/lightningnetwork/lnd/pull/9455</div> |
-| <div align="center">⬜</div>      | May 2 - May 2      | Progress on Exploring Neutrino Codebase                | <div align="center">—</div> |
+| <div align="center">⬜</div>      | May 2 - May 3      | Progress on Exploring Neutrino Codebase                | <div align="center">—</div> |
 
 ## Milestone 1 - TBD
 
