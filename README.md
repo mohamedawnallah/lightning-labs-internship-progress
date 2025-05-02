@@ -13,7 +13,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity | Role | Artifact |
 |--------|--------|----------|------|-----|
-| <div align="center">✅</div>            | April 30 - April 30 | - Set up Keybase for internal communication <br> - Set up Electrum Wallet <br> - Set up Development Environment <br> - Complete onboarding administrative tasks | <div align="center">Author</div> | <div align="center">- My Keybase Address: [https://keybase.io/mohamed_awnallah](https://keybase.io/mohamed_awnallah) <br> - My Bitcoin Address through GitHub Medium: `bc1qrwm55gg54ytcuh5qhgz0u2dx4mp925uqdsn975`</div> |
+| <div align="center">✅</div>            | April 30 - April 30 | Set up Keybase for internal communication, Set up Electrum Wallet, Set up Development Environment, Complete onboarding administrative tasks | <div align="center">Author</div> | <div align="center">- My Keybase Address: [https://keybase.io/mohamed_awnallah](https://keybase.io/mohamed_awnallah) <br> - My Bitcoin Address through GitHub Medium: `bc1qrwm55gg54ytcuh5qhgz0u2dx4mp925uqdsn975`</div> |
 | <div align="center">⏳</div> | May 1 - May 2 | multi: remove endpoints sendpayment, sendtoroute, sendtoroutesync, and sendpaymentsync | <div align="center">Author</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/8348</div> |
 | <div align="center">⚪</div> | May 1 - May 2 | discovery+lnwire: add support for DNS host name in NodeAnnouncement msg | <div align="center">Author</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/9455</div> |
 
