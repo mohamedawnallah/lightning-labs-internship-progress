@@ -28,6 +28,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 ## Misc
 
-| Period | Activity | Role | Artifact |
-|--------|----------|------|-----|
-| May 1 - May 1 | cmd/wtclient: Enhance help text for session and terminate subcommands | <div align="center">Reviewer</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/9765</div> |
+| Status | Period | Activity | Role | Artifact |
+|--------|--------|----------|------|-----|
+| <div align="center">✅</div> | May 1 - May 1 |  cmd/wtclient: Enhance help text for session and terminate subcommands | <div align="center">Reviewer</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/9765</div> |
+| <div align="center">⏳</div> | May 3 - May 3 | chore: remove dead code | <div align="center">Author</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/9780</div> |
