@@ -16,7 +16,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 | <div align="center">⏳</div> | May 1 - May 2 | multi: remove endpoints sendpayment, sendtoroute, sendtoroutesync, and sendpaymentsync | <div align="center">Author</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/8348</div> |
 | <div align="center">⏳</div> | May 1 - May 2 | discovery+lnwire: add support for DNS host name in NodeAnnouncement msg | <div align="center">Author</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/9455</div> |
 
-## Milestone 1 - Design Document for Neutrino Parallel Block Header Download & Filter Side Loading
+## Milestone 1 - Design Document for Neutrino Filter Side Loading
 
 | Status | Period | Activity | Role | Artifact |
 |--------|--------|----------|------|-----|
