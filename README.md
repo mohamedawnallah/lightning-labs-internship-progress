@@ -1,6 +1,5 @@
-
 # Lightning Labs Internship Progress
-A personal repository to track my progress during my internship at Lightning Labs.
+A personal repository to track my progress during my internship at Lightning Labs. All work shared here is open-source.
 
 ## Legend
 
