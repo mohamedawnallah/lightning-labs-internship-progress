@@ -5,7 +5,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 - ⬜: Not Started
 - ⚪: Feedback - Not Yet Addressed
-- ⏳: In Review
+- ⏳: In Review/CI Complains
 - ✅: Merged/Done
 
 ## Milestone 0 - Onboarding & LND Community PRs
