@@ -31,3 +31,5 @@ A personal repository to track my progress during my internship at Lightning Lab
 |--------|--------|----------|------|-----|
 | <div align="center">✅</div> | May 1 - May 1 |  cmd/wtclient: Enhance help text for session and terminate subcommands | <div align="center">Reviewer</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/9765</div> |
 | <div align="center">⏳</div> | May 3 - May 3 | chore: remove dead code | <div align="center">Author</div> | <div align="center">https://github.com/lightningnetwork/lnd/pull/9780</div> |
+| <div align="center">⏳</div> | May 8 - May 8 | headerfs: improve error messages for header store | <div align="center">Author</div> | <div align="center">https://github.com/lightninglabs/neutrino/pull/314</div> |
+| <div align="center">⏳</div> | May 8 - May 8 | headerfs: fail gracefully on header write | <div align="center">Author</div> | <div align="center">https://github.com/lightninglabs/neutrino/pull/313</div> |
