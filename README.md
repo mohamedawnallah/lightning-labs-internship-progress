@@ -34,12 +34,12 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period         | Activity                                                                                       | Role   | Artifact |
 |:------:|:--------------|:-----------------------------------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | May 10 – 18    | Implement headers file I/O support for both block and filter headers                                                           | Author | —        |
+| ⬜     | May 10 – 18    | Implement headers file I/O support for both block and filter headers                          | Author | —        |
 | ⬜     | May 10 – 18    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | —        |
 | ⬜     | May 10 – 18    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | —        |
 | ⬜     | May 10 – 18    | Write unit and integration tests for headers file I/O                                         | Author | —        |
 | ⬜     | May 10 – 18    | Document side-header loading process using file I/O                                           | Author | —        |
-| ⬜     | May 10 – 18    | Benchmark sync time with and without side-header loading                                      | Author | —        |
+| ⬜     | May 10 – 18    | Benchmark sync time with and without side-header loading using headers file I/O               | Author | —        |
 | ⬜     | May 10 – 18    | Perform memory profiling for headers file I/O                                                 | Author | —        |
 
 ---
@@ -48,9 +48,11 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity                                                               | Role   | Artifact |
 |:------:|:------|:-----------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | TBD   | Implement headers HTTP I/O support for both block and filter headers                                      | Author | —        |
-| ⬜     | TBD   | Write unit and integration tests for headers HTTP I/O                   | Author | —        |
-| ⬜     | TBD   | Document side-header loading process using HTTP I/O                     | Author | —        |
+| ⬜     | TBD   | Implement headers HTTP I/O support for both block and filter headers             | Author | —        |
+| ⬜     | TBD   | Write unit and integration tests for headers HTTP I/O                            | Author | —        |
+| ⬜     | TBD   | Document side-header loading process using HTTP I/O                              | Author | —        |
+| ⬜     | TBD   | Benchmark sync time with and without side-header loading using headers HTTP I/O  | Author | —        |
+| ⬜     | TBD   | Perform memory profiling for headers HTTP I/O                                    | Author | —        |
 
 ---
 
