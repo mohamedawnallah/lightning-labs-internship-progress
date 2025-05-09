@@ -20,10 +20,24 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity | Role | Artifact |
 |--------|--------|----------|------|-----|
-| <div align="center">✅</div> | May 3 - May 11 |  Design Document for Neutrino Filter Side Loading | <div align="center">Author</div> | <div align="center">Shared Internally</div> |
-| <div align="center">⬜</div> | May 3 - May 11 |  Outline and prioritize upcoming milestones for the Neutrino project, breaking them into actionable tasks with timelines  | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">✅</div> | May 3 - May 9 |  Design Document for Neutrino Side-Header Loading | <div align="center">Author</div> | <div align="center">Shared Internally</div> |
+| <div align="center">✅</div> | May 3 - May 9 |  Outline and prioritize upcoming milestones for the neutrino side-header loading project, breaking them into actionable tasks with timelines  | <div align="center">Author</div> | <div align="center">—</div> |
 
-## Milestone 2 - TBD
+## Milestone 2 - Headers File I/O Support
+
+
+## Milestone 3 - Headers HTTP I/O Support
+
+
+
+## Milestone 4 - Design Document for Neutrino Parallel Header Download via Checkpoints
+
+| Status | Period | Activity | Role | Artifact |
+|--------|--------|----------|------|-----|
+| <div align="center">⬜</div> | – |  Design Document for Neutrino Parallel Header Download via Header Checkpoints | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | – |  Outline and prioritize upcoming milestones for the neutrino parallel header download via header checkpoints | <div align="center">Author</div> | <div align="center">—</div> |
+
+## Milestone 5 - TBD
 
 ## Misc
 
