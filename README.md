@@ -25,17 +25,31 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 ## Milestone 2 - Headers File I/O Support
 
+| Status | Period | Activity | Role | Artifact |
+|--------|--------|----------|------|-----|
+| <div align="center">⬜</div> | May 10 - May 18 |  Headers File I/O Support | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | May 10 - May 18 | Headers Syntactic, Chaining, and Sanity Validation Checks | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | May 10 - May 18 | Headers Merge Intervals Algorithm and Overlap Checkpointing | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | May 10 - May 18 | Unit & Integration Testing | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | May 10 - May 18 | Document for how to side-header loading using File I/O | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | May 10 - May 18 | Benchmarking by comparing the time to sync w or w/o side-header loeading | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | May 10 - May 18 | Memory Profiling | <div align="center">Author</div> | <div align="center">—</div> |
+
 
 ## Milestone 3 - Headers HTTP I/O Support
 
-
+| Status | Period | Activity | Role | Artifact |
+|--------|--------|----------|------|-----|
+| <div align="center">⬜</div> | TBD | Headers HTTP I/O Support | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | TBD | Unit & Integration Testing | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | TBD | Document for how to side-header loading using HTTP I/O | <div align="center">Author</div> | <div align="center">—</div> |
 
 ## Milestone 4 - Design Document for Neutrino Parallel Header Download via Checkpoints
 
 | Status | Period | Activity | Role | Artifact |
 |--------|--------|----------|------|-----|
-| <div align="center">⬜</div> | – |  Design Document for Neutrino Parallel Header Download via Header Checkpoints | <div align="center">Author</div> | <div align="center">—</div> |
-| <div align="center">⬜</div> | – |  Outline and prioritize upcoming milestones for the neutrino parallel header download via header checkpoints | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | TBD |  Design Document for Neutrino Parallel Header Download via Header Checkpoints | <div align="center">Author</div> | <div align="center">—</div> |
+| <div align="center">⬜</div> | TBD |  Outline and prioritize upcoming milestones for the neutrino parallel header download via header checkpoints | <div align="center">Author</div> | <div align="center">—</div> |
 
 ## Milestone 5 - TBD
 
