@@ -32,15 +32,17 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 ## Milestone 2 — Block and Compressed Filter Headers File I/O Support
 
+📌 **Note:** Period extended from May 18 to May 19 due to exam on the 18th.
+
 | Status | Period         | Activity                                                                                       | Role   | Artifact |
 |:------:|:--------------|:-----------------------------------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | May 10 – 18    | Implement headers file I/O support                                                            | Author | —        |
-| ⬜     | May 10 – 18    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | —        |
-| ⬜     | May 10 – 18    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | —        |
-| ⬜     | May 10 – 18    | Write unit and integration tests for headers file I/O                                         | Author | —        |
-| ⬜     | May 10 – 18    | Benchmark sync time with and without side-header loading using headers file I/O               | Author | —        |
-| ⬜     | May 10 – 18    | Perform memory profiling for headers file I/O                                                 | Author | —        |
-| ⬜     | May 10 – 18    | Document side-header loading process using file I/O                                           | Author | —        |
+| ⬜     | May 10 – 19    | Implement headers file I/O support                                                            | Author | —        |
+| ⬜     | May 10 – 19    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | —        |
+| ⬜     | May 10 – 19    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | —        |
+| ⬜     | May 10 – 19    | Write unit and integration tests for headers file I/O                                         | Author | —        |
+| ⬜     | May 10 – 19    | Benchmark sync time with and without side-header loading using headers file I/O               | Author | —        |
+| ⬜     | May 10 – 19    | Perform memory profiling for headers file I/O                                                 | Author | —        |
+| ⬜     | May 10 – 19    | Document side-header loading process using file I/O                                           | Author | —        |
 
 ---
 
