@@ -36,6 +36,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period         | Activity                                                                                       | Role   | Artifact |
 |:------:|:--------------|:-----------------------------------------------------------------------------------------------|:------:|:--------:|
+| ⬜     | May 10 – 19    | Creating & evaluating a/b testing experiments _collective exhaustive_ for side-header loading feature| Author | [Repo #side-header-loading-ab-testing-experiments](https://github.com/mohamedawnallah/side-header-loading-ab-testing-experiments)        |
 | ⬜     | May 10 – 19    | Implement headers file I/O support                                                            | Author | —        |
 | ⬜     | May 10 – 19    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | —        |
 | ⬜     | May 10 – 19    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | —        |
