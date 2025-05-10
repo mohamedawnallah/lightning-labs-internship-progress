@@ -32,18 +32,18 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 ## Milestone 2 — Block and Compressed Filter Headers File I/O Support
 
-📌 **Note:** Period extended from May 18 to May 19 due to exam on the 18th.
+📌 **Note:** Period extended from May 18 to May 20 due to exam on the 18th.
 
 | Status | Period         | Activity                                                                                       | Role   | Artifact |
 |:------:|:--------------|:-----------------------------------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | May 10 – 19    | Creating & evaluating a/b testing experiments _collective exhaustive_ for side-header loading feature| Author | [Repo #side-header-loading-ab-testing-experiments](https://github.com/mohamedawnallah/side-header-loading-ab-testing-experiments)        |
-| ⬜     | May 10 – 19    | Implement headers file I/O support                                                            | Author | —        |
-| ⬜     | May 10 – 19    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | —        |
-| ⬜     | May 10 – 19    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | —        |
-| ⬜     | May 10 – 19    | Write unit and integration tests for headers file I/O                                         | Author | —        |
-| ⬜     | May 10 – 19    | Benchmark sync time with and without side-header loading using headers file I/O               | Author | —        |
-| ⬜     | May 10 – 19    | Perform memory profiling for headers file I/O                                                 | Author | —        |
-| ⬜     | May 10 – 19    | Document side-header loading process using file I/O                                           | Author | —        |
+| ⬜     | May 10 – 20    | Creating & evaluating a/b testing experiments _collective exhaustive_ for side-header loading feature| Author | [Repo #side-header-loading-ab-testing-experiments](https://github.com/mohamedawnallah/side-header-loading-ab-testing-experiments)        |
+| ⬜     | May 10 – 20    | Implement headers file I/O support                                                            | Author | —        |
+| ⬜     | May 10 – 20    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | —        |
+| ⬜     | May 10 – 20    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | —        |
+| ⬜     | May 10 – 20    | Write unit and integration tests for headers file I/O                                         | Author | —        |
+| ⬜     | May 10 – 20    | Benchmark sync time with and without side-header loading using headers file I/O               | Author | —        |
+| ⬜     | May 10 – 20    | Perform memory profiling for headers file I/O                                                 | Author | —        |
+| ⬜     | May 10 – 20    | Document side-header loading process using file I/O                                           | Author | —        |
 
 ---
 
