@@ -6,7 +6,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 - ⬜: Not started
 - ⚪: Feedback — not yet addressed
-- ⏳: In review / Pending CI fixes
+- ⏳: In review
 - ✅: Merged / Done
 
 ---
