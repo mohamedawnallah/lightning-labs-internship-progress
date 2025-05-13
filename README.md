@@ -51,11 +51,11 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity                                                               | Role   | Artifact |
 |:------:|:------|:-----------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | TBD   | Implement headers HTTP I/O support                                               | Author | —        |
-| ⬜     | TBD   | Write unit and integration tests for headers HTTP I/O                            | Author | —        |
-| ⬜     | TBD   | Benchmark sync time with and without side-header loading using headers HTTP I/O  | Author | —        |
-| ⬜     | TBD   | Perform memory profiling for headers HTTP I/O                                    | Author | —        |
-| ⬜     | TBD   | Document side-header loading process using HTTP I/O                              | Author | —        |
+| ⬜     | May 13 - 20   | Implement headers HTTP I/O support                                               | Author | —        |
+| ⬜     | May 13 - 20   | Write unit and integration tests for headers HTTP I/O                            | Author | —        |
+| ⬜     | May 13 - 20   | Benchmark sync time with and without side-header loading using headers HTTP I/O  | Author | —        |
+| ⬜     | May 13 - 20   | Perform memory profiling for headers HTTP I/O                                    | Author | —        |
+| ⬜     | May 13 - 20   | Document side-header loading process using HTTP I/O                              | Author | —        |
 
 ---
 
