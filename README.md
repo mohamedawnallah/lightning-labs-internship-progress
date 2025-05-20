@@ -80,7 +80,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 ---
 
-## Milestone 5 — TBD
+## Milestone 6 — TBD
 
 ---
 
