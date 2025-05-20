@@ -63,11 +63,8 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity                                                               | Role   | Artifact |
 |:------:|:------|:-----------------------------------------------------------------------|:------:|:--------:|
-| ⏳     | May 20 - 22   | query: add OnMaxTries                                           | Reviewer | [PR #308](https://github.com/lightninglabs/neutrino/pull/308)        |
-| ⏳     | May 20 - 22   | Write unit and integration tests for headers HTTP I/O                            | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
-| ⏳     | May 20 - 22   | Benchmark sync time with and without side-header loading using headers HTTP I/O  | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
-| ⏳     | May 20 - 22   | Perform memory profiling for headers HTTP I/O                                    | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
-| ⏳     | May 20 - 20   | Document side-header loading process using HTTP I/O                              | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⬜     | May 20 - 22   | query: add OnMaxTries                                           | Reviewer | [PR #308](https://github.com/lightninglabs/neutrino/pull/308)        |
+| ⬜     | May 20 - 22   | peer, main, netsync, blockchain: parallel block downloads                               | Reviewer | [PR #2226](https://github.com/btcsuite/btcd/pull/2226)        |
 
 ---
 
