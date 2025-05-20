@@ -59,7 +59,19 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 ---
 
-## Milestone 4 — Design Document for Neutrino Parallel Header Download via Checkpoints
+## Milestone 4 — PRs Review
+
+| Status | Period | Activity                                                               | Role   | Artifact |
+|:------:|:------|:-----------------------------------------------------------------------|:------:|:--------:|
+| ⏳     | May 20 - 22   | query: add OnMaxTries                                           | Reviewer | [PR #308](https://github.com/lightninglabs/neutrino/pull/308)        |
+| ⏳     | May 20 - 22   | Write unit and integration tests for headers HTTP I/O                            | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 20 - 22   | Benchmark sync time with and without side-header loading using headers HTTP I/O  | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 20 - 22   | Perform memory profiling for headers HTTP I/O                                    | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 20 - 20   | Document side-header loading process using HTTP I/O                              | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+
+---
+
+## Milestone 5 — Design Document for Neutrino Parallel Header Download via Checkpoints
 
 | Status | Period | Activity                                                                                      | Role   | Artifact |
 |:------:|:------|:----------------------------------------------------------------------------------------------|:------:|:--------:|
@@ -80,4 +92,5 @@ A personal repository to track my progress during my internship at Lightning Lab
 | ⏳     | May 3        | Remove dead code (chore)                                                     | Author   | [PR #9780](https://github.com/lightningnetwork/lnd/pull/9780)        |
 | ✅     | May 8        | Improve error messages for header store (headerfs)                           | Author   | [PR #314](https://github.com/lightninglabs/neutrino/pull/314)        |
 | ⏳     | May 8        | Fail gracefully on header write (headerfs)                                   | Author   | [PR #313](https://github.com/lightninglabs/neutrino/pull/313)        |
+| –     | May 16        | Validate network addresses on `UpdateNodeAnnouncement` RPC                   | Author   | [Issue #9816](https://github.com/lightningnetwork/lnd/issues/9816)     |
 | ⚪     | TBD          | Manage shutdown requests with status codes                                   | Author   | [PR #9395](https://github.com/lightningnetwork/lnd/pull/9395)        |
