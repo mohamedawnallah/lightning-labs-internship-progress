@@ -85,7 +85,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period       | Activity                                                                     | Role     | Artifact                                                            |
 |:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
-| ✅     | May 1        | Review: enhance help text for `wtclient` session and terminate subcommands   | Reviewer | [PR #9765](https://github.com/lightningnetwork/lnd/pull/9765)       |
+| ⏳     | May 1        | Review: enhance help text for `wtclient` session and terminate subcommands   | Reviewer | [PR #9765](https://github.com/lightningnetwork/lnd/pull/9765)       |
 | ⏳     | May 3        | Remove dead code (chore)                                                     | Author   | [PR #9780](https://github.com/lightningnetwork/lnd/pull/9780)        |
 | ✅     | May 8        | Improve error messages for header store (headerfs)                           | Author   | [PR #314](https://github.com/lightninglabs/neutrino/pull/314)        |
 | ⏳     | May 8        | Fail gracefully on header write (headerfs)                                   | Author   | [PR #313](https://github.com/lightninglabs/neutrino/pull/313)        |
