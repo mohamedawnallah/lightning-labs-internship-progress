@@ -6,6 +6,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 - ⬜: Not started
 - ⚪: Feedback — not yet addressed
+- 🏗️: Created
 - ⏳: In review
 - ✅: Merged
 
@@ -15,7 +16,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period           | Activity                                                                                      | Role   | Artifact                                                                                                                                                                              |
 |:------:|:----------------|:----------------------------------------------------------------------------------------------|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ✅     | April 30        | Set up Keybase, Electrum Wallet, development environment, and completed onboarding tasks       | Author | - My Keybase: [keybase.io/mohamed_awnallah](https://keybase.io/mohamed_awnallah)                               |
+| 🏗️     | April 30        | Set up Keybase, Electrum Wallet, development environment, and completed onboarding tasks       | Author | - My Keybase: [keybase.io/mohamed_awnallah](https://keybase.io/mohamed_awnallah)                               |
 | ⏳     | May 1 – May 2   | Remove deprecated endpoints: sendpayment, sendtoroute, sendtoroutesync, sendpaymentsync        | Author | [PR #8348](https://github.com/lightningnetwork/lnd/pull/8348)                                                                                                                         |
 | ⏳     | May 1 – May 2   | Add support for DNS host name in NodeAnnouncement message (discovery+lnwire)                  | Author | [PR #9455](https://github.com/lightningnetwork/lnd/pull/9455)                                                                                                                         |
 
@@ -25,8 +26,8 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period         | Activity                                                                                                 | Role   | Artifact             |
 |:------:|:--------------|:---------------------------------------------------------------------------------------------------------|:------:|:--------------------:|
-| ✅     | May 3 – May 9 | Write design document for Neutrino side-header loading                                                   | Author | Shared internally    |
-| ✅     | May 3 – May 9 | Outline and prioritize milestones and actionable tasks for side-header loading project                    | Author | —                    |
+| 🏗️     | May 3 – May 9 | Write design document for Neutrino side-header loading                                                   | Author | Shared internally    |
+| 🏗️     | May 3 – May 9 | Outline and prioritize milestones and actionable tasks for side-header loading project                    | Author | —                    |
 
 ---
 
@@ -36,7 +37,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period         | Activity                                                                                       | Role   | Artifact |
 |:------:|:--------------|:-----------------------------------------------------------------------------------------------|:------:|:--------:|
-| ✅     | May 10 – 20    | Creating & evaluating a/b testing experiments _collective exhaustive_ for side-header loading feature| Author | [REPO #side-header-loading-ab-testing-experiments](https://github.com/mohamedawnallah/side-header-loading-ab-testing-experiments)        |
+| 🏗️     | May 10 – 20    | Creating & evaluating a/b testing experiments _collective exhaustive_ for side-header loading feature| Author | [REPO #side-header-loading-ab-testing-experiments](https://github.com/mohamedawnallah/side-header-loading-ab-testing-experiments)        |
 | ⏳     | May 10 – 20    | Implement headers file I/O support                                                            | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)  |
 | ⏳     | May 10 – 20    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
 | ⏳     | May 10 – 20    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
@@ -86,8 +87,8 @@ A personal repository to track my progress during my internship at Lightning Lab
 | Status | Period       | Activity                                                                     | Role     | Artifact                                                            |
 |:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
 | ⏳     | May 1        | Review: enhance help text for `wtclient` session and terminate subcommands   | Reviewer | [PR #9765](https://github.com/lightningnetwork/lnd/pull/9765)       |
-| ⏳     | May 3        | Remove dead code (chore)                                                     | Author   | [PR #9780](https://github.com/lightningnetwork/lnd/pull/9780)        |
+| 🏗️     | May 3        | Remove dead code (chore)                                                     | Author   | [PR #9780](https://github.com/lightningnetwork/lnd/pull/9780)        |
 | ✅     | May 8        | Improve error messages for header store (headerfs)                           | Author   | [PR #314](https://github.com/lightninglabs/neutrino/pull/314)        |
 | ⏳     | May 8        | Fail gracefully on header write (headerfs)                                   | Author   | [PR #313](https://github.com/lightninglabs/neutrino/pull/313)        |
-| –     | May 16        | Validate network addresses on `UpdateNodeAnnouncement` RPC                   | Author   | [Issue #9816](https://github.com/lightningnetwork/lnd/issues/9816)     |
+| 🏗️     | May 16        | Validate network addresses on `UpdateNodeAnnouncement` RPC                  | Author   | [Issue #9816](https://github.com/lightningnetwork/lnd/issues/9816)     |
 | ⚪     | TBD          | Manage shutdown requests with status codes                                   | Author   | [PR #9395](https://github.com/lightningnetwork/lnd/pull/9395)        |
