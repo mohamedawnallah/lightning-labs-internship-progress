@@ -7,7 +7,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 - ⬜: Not started
 - ⚪: Feedback — not yet addressed
 - ⏳: In review
-- ✅: Merged / Done
+- ✅: Merged
 
 ---
 
@@ -37,13 +37,13 @@ A personal repository to track my progress during my internship at Lightning Lab
 | Status | Period         | Activity                                                                                       | Role   | Artifact |
 |:------:|:--------------|:-----------------------------------------------------------------------------------------------|:------:|:--------:|
 | ✅     | May 10 – 20    | Creating & evaluating a/b testing experiments _collective exhaustive_ for side-header loading feature| Author | [REPO #side-header-loading-ab-testing-experiments](https://github.com/mohamedawnallah/side-header-loading-ab-testing-experiments)        |
-| ⬜     | May 10 – 20    | Implement headers file I/O support                                                            | Author | —        |
-| ⬜     | May 10 – 20    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | —        |
-| ⬜     | May 10 – 20    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | —        |
-| ⬜     | May 10 – 20    | Write unit and integration tests for headers file I/O                                         | Author | —        |
-| ⬜     | May 10 – 20    | Benchmark sync time with and without side-header loading using headers file I/O               | Author | —        |
-| ⬜     | May 10 – 20    | Perform memory profiling for headers file I/O                                                 | Author | —        |
-| ⬜     | May 10 – 20    | Document side-header loading process using file I/O                                           | Author | —        |
+| ⏳     | May 10 – 20    | Implement headers file I/O support                                                            | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)  |
+| ⏳     | May 10 – 20    | Add syntactic, chaining, and sanity validation checks for headers                             | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 10 – 20    | Develop headers merge intervals algorithm and overlap checkpointing                           | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 10 – 20    | Write unit and integration tests for headers file I/O                                         | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 10 – 20    | Benchmark sync time with and without side-header loading using headers file I/O               | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 10 – 20    | Perform memory profiling for headers file I/O                                                 | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 10 – 20    | Document side-header loading process using file I/O                                           | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
 
 ---
 
@@ -51,11 +51,11 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity                                                               | Role   | Artifact |
 |:------:|:------|:-----------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | May 13 - 20   | Implement headers HTTP I/O support                                               | Author | —        |
-| ⬜     | May 13 - 20   | Write unit and integration tests for headers HTTP I/O                            | Author | —        |
-| ⬜     | May 13 - 20   | Benchmark sync time with and without side-header loading using headers HTTP I/O  | Author | —        |
-| ⬜     | May 13 - 20   | Perform memory profiling for headers HTTP I/O                                    | Author | —        |
-| ⬜     | May 13 - 20   | Document side-header loading process using HTTP I/O                              | Author | —        |
+| ⏳     | May 13 - 20   | Implement headers HTTP I/O support                                               | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 13 - 20   | Write unit and integration tests for headers HTTP I/O                            | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 13 - 20   | Benchmark sync time with and without side-header loading using headers HTTP I/O  | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 13 - 20   | Perform memory profiling for headers HTTP I/O                                    | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
+| ⏳     | May 13 - 20   | Document side-header loading process using HTTP I/O                              | Author | [PR #317](https://github.com/lightninglabs/neutrino/pull/317)        |
 
 ---
 
