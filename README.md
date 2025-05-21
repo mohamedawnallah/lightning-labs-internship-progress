@@ -131,4 +131,4 @@ A personal repository to track my progress during my internship at Lightning Lab
 | ⚪     | TBD        | [epic]: Payment and Router separation ([Issue #8834](https://github.com/lightningnetwork/lnd/issues/8834))   | Contributor | –       |
 | ⚪     | TBD        | lnwallet: move all coin selection into lnwallet from btcwallet ([Issue #2991](https://github.com/lightningnetwork/lnd/issues/2991))   | Contributor | –       |
 | ⚪     | TBD        | [bug]: htlcswitch should reforward settle/fails from closed channels ([Issue #8461](https://github.com/lightningnetwork/lnd/issues/8461))   | Contributor | –       |
-
+| ⚪     | TBD        | [feature]: dynamically increase CLTV delta values in response to perceived chain congestion as function of mempool + confirmation delay ([Issue #7212](https://github.com/lightningnetwork/lnd/issues/7212))   | Contributor | –       |
