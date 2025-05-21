@@ -118,7 +118,9 @@ A personal repository to track my progress during my internship at Lightning Lab
 | Status | Period       | Activity                                                                     | Role     | Artifact                                                            |
 |:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
 | ⚪     | TBD        | `GetBlockHeaderVerbose` doesn't return all data  ([Issue #2311](https://github.com/btcsuite/btcd/issues/2311))   | Contributor | –       |
-| ⚪     | TBD        | getrawmempool rpc response is _incompatible_ with bitcoin core response ([Issue #2310](https://github.com/btcsuite/btcd/issues/2310))   | Contributor | –       |
+| ⚪     | TBD        | `getrawmempool` rpc response is _incompatible_ with bitcoin core response ([Issue #2310](https://github.com/btcsuite/btcd/issues/2310))   | Contributor | –       |
 | ⚪     | TBD        | Allow any sequence of pushdata in `OP_RETURN` ([Issue #2309](https://github.com/btcsuite/btcd/pull/2309))   | Reviewer | –       |
+| ⚪     | TBD        | API to get TX and UTXO proofs for SVP ([Issue #2290](https://github.com/btcsuite/btcd/issues/2290))   | Contributor | –       |
+| ⚪     | TBD        | bug: daemon stalled due to circular waiting dependency between server can `SyncManager` ([Issue #2258](https://github.com/btcsuite/btcd/issues/2258))   | Contributor | –       |
 
 ### LND
