@@ -91,5 +91,6 @@ A personal repository to track my progress during my internship at Lightning Lab
 | ✅     | May 8        | Improve error messages for header store (headerfs)                           | Author   | [PR #314](https://github.com/lightninglabs/neutrino/pull/314)        |
 | ⏳     | May 8        | Fail gracefully on header write (headerfs)                                   | Author   | [PR #313](https://github.com/lightninglabs/neutrino/pull/313)        |
 | 🏗️     | May 16        | Validate network addresses on `UpdateNodeAnnouncement` RPC                  | Author   | [Issue #9816](https://github.com/lightningnetwork/lnd/issues/9816)     |
-| ⚪     | May 21 - 28   | Add new APIs `GetPeerInfo`, `GetBlockChainInfo`, and `RawRequest` to chain interface | Author   | [PR #973](https://github.com/lightningnetwork/lnd/issues/973)     |
+| ⚪     | May 21 - 28   | Add new APIs `GetPeerInfo`, `GetBlockChainInfo`, and `RawRequest` to chain interface | Author   | [PR #973](https://github.com/btcsuite/btcwallet/pull/973)     |
+| ⚪     | TBD   | multi: unify RPC connection creations for chain backends | Author   | [PR #9435](https://github.com/lightningnetwork/lnd/pull/9435)     |
 | ⚪     | TBD          | Manage shutdown requests with status codes                                   | Author   | [PR #9395](https://github.com/lightningnetwork/lnd/pull/9395)        |
