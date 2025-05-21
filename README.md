@@ -129,3 +129,6 @@ A personal repository to track my progress during my internship at Lightning Lab
 |:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
 | ⚪     | TBD        | lnwallet+chainntnfs: always use filters for block scanning  ([Issue #2999](https://github.com/lightningnetwork/lnd/issues/2999))   | Contributor | –       |
 | ⚪     | TBD        | [epic]: Payment and Router separation ([Issue #8834](https://github.com/lightningnetwork/lnd/issues/8834))   | Contributor | –       |
+| ⚪     | TBD        | lnwallet: move all coin selection into lnwallet from btcwallet ([Issue #2991](https://github.com/lightningnetwork/lnd/issues/2991))   | Contributor | –       |
+
+
