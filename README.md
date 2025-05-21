@@ -64,8 +64,8 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity                                                               | Role   | Artifact |
 |:------:|:------|:-----------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | May 20 - 22   | query: add OnMaxTries                                           | Reviewer | [PR #308](https://github.com/lightninglabs/neutrino/pull/308)        |
-| ⬜     | May 20 - 22   | peer, main, netsync, blockchain: parallel block downloads                               | Reviewer | [PR #2226](https://github.com/btcsuite/btcd/pull/2226)        |
+| ⬜     | May 20 - 22   | query: add OnMaxTries                                           | Reviewer | [PR #308](https://github.com/lightninglabs/neutrino/pull/308) |
+| ⬜     | May 20 - 22   | peer, main, netsync, blockchain: parallel block downloads       | Reviewer | [PR #2226](https://github.com/btcsuite/btcd/pull/2226)        |
 
 ---
 
@@ -76,10 +76,10 @@ A personal repository to track my progress during my internship at Lightning Lab
 | ⬜     | TBD   | Write design document for parallel header download using header checkpoints                    | Author | —        |
 | ⬜     | TBD   | Outline and prioritize milestones for parallel header download via checkpoints                 | Author | —        |
 
----
+---        
 
 ## Milestone 6 — TBD
-
+   
 ---
 
 ## Misc
@@ -93,4 +93,5 @@ A personal repository to track my progress during my internship at Lightning Lab
 | 🏗️     | May 16        | Validate network addresses on `UpdateNodeAnnouncement` RPC                  | Author   | [Issue #9816](https://github.com/lightningnetwork/lnd/issues/9816)     |
 | ⚪     | May 21 - 28   | Add new APIs `GetPeerInfo`, `GetBlockChainInfo`, and `RawRequest` to chain interface | Author   | [PR #973](https://github.com/btcsuite/btcwallet/pull/973)     |
 | ⚪     | TBD   | multi: unify RPC connection creations for chain backends | Author   | [PR #9435](https://github.com/lightningnetwork/lnd/pull/9435)     |
+| ⚪     | TBD   | feat(lncli): Add --route_hints flag to sendpayment --keysend/--amp and queryroutes | Reviewer   | [PR #9721](https://github.com/lightningnetwork/lnd/pull/9721)     |
 | ⚪     | TBD          | Manage shutdown requests with status codes                                   | Author   | [PR #9395](https://github.com/lightningnetwork/lnd/pull/9395)        |
