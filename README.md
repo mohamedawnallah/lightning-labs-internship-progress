@@ -95,3 +95,17 @@ A personal repository to track my progress during my internship at Lightning Lab
 | ⚪     | TBD   | multi: unify RPC connection creations for chain backends | Author   | [PR #9435](https://github.com/lightningnetwork/lnd/pull/9435)     |
 | ⚪     | TBD   | feat(lncli): Add --route_hints flag to sendpayment --keysend/--amp and queryroutes | Reviewer   | [PR #9721](https://github.com/lightningnetwork/lnd/pull/9721)     |
 | ⚪     | TBD          | Manage shutdown requests with status codes                                   | Author   | [PR #9395](https://github.com/lightningnetwork/lnd/pull/9395)        |
+
+---
+
+## Stretch
+
+### Neutrino
+
+| Status | Period       | Activity                                                                     | Role     | Artifact                                                            |
+|:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
+| ⚪     | TBD        | query: implement likelihood sampling based peer scheduling and add work stealing across peers   | Contributor | [Issue #292](https://github.com/lightninglabs/neutrino/issues/292)       |
+
+### BTCD
+
+### LND
