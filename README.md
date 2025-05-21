@@ -105,6 +105,13 @@ A personal repository to track my progress during my internship at Lightning Lab
 | Status | Period       | Activity                                                                     | Role     | Artifact                                                            |
 |:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
 | ⚪     | TBD        | query: implement likelihood sampling based peer scheduling and add work stealing across peers ([Issue #292](https://github.com/lightninglabs/neutrino/issues/292))   | Contributor | –       |
+| ⚪     | TBD        | unban peer ([Issue #253](https://github.com/lightninglabs/neutrino/issues/253))   | Contributor | –       |
+| ⚪     | TBD        | sync: roll back filter header chain if invalid filter is detected post-sync ([Issue #218](https://github.com/lightninglabs/neutrino/issues/218))   | Contributor | –       |
+| ⚪     | TBD        | neutrino: implement BIP 151 ([Issue #69](https://github.com/lightninglabs/neutrino/issues/69))   | Contributor | –       |
+| ⚪     | TBD        | blockmanager: once we're at tip, start to use sendheaders to learn of new chains ([Issue #67](https://github.com/lightninglabs/neutrino/issues/67))   | Contributor | –       |
+| ⚪     | TBD        | blockmanager: aggressively pipeline getheaders requests ([Issue #66](https://github.com/lightninglabs/neutrino/issues/67))   | Contributor | –       |
+| ⚪     | TBD        | rescan: only fetch blocks w/ witness data if we matched on an outpoint ([Issue #64](https://github.com/lightninglabs/neutrino/issues/64))   | Contributor | –       |
+| ⚪     | TBD        | NewChainService does not traverse through all supplied Neutrino Peers before returning with error ([Issue #60](https://github.com/lightninglabs/neutrino/issues/60))   | Contributor | –       |
 
 ### BTCD
 
