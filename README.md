@@ -104,7 +104,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period       | Activity                                                                     | Role     | Artifact                                                            |
 |:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
-| ⚪     | TBD        | query: implement likelihood sampling based peer scheduling and add work stealing across peers   | Contributor | [Issue #292](https://github.com/lightninglabs/neutrino/issues/292)       |
+| ⚪     | TBD        | query: implement likelihood sampling based peer scheduling and add work stealing across peers ([Issue #292](https://github.com/lightninglabs/neutrino/issues/292))   | Contributor | –       |
 
 ### BTCD
 
