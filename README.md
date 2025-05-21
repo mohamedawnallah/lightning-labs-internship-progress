@@ -1,4 +1,4 @@
-# Lightning Labs Internship Progress
+ # Lightning Labs Internship Progress
 
 A personal repository to track my progress during my internship at Lightning Labs. All work shared here is open-source.
 
@@ -124,3 +124,8 @@ A personal repository to track my progress during my internship at Lightning Lab
 | ⚪     | TBD        | bug: daemon stalled due to circular waiting dependency between server can `SyncManager` ([Issue #2258](https://github.com/btcsuite/btcd/issues/2258))   | Contributor | –       |
 
 ### LND
+
+| Status | Period       | Activity                                                                     | Role     | Artifact                                                            |
+|:------:|:------------|:-----------------------------------------------------------------------------|:--------:|:--------------------------------------------------------------------:|
+| ⚪     | TBD        | lnwallet+chainntnfs: always use filters for block scanning  ([Issue #2999](https://github.com/lightningnetwork/lnd/issues/2999))   | Contributor | –       |
+| ⚪     | TBD        | [epic]: Payment and Router separation ([Issue #8834](https://github.com/lightningnetwork/lnd/issues/8834))   | Contributor | –       |
