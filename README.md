@@ -4,7 +4,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 ## Legend
 
-- ⬜: Not started
+- ⬜: Not started yet
 - ⚪: Feedback — not yet addressed
 - 🏗️: Created
 - ⏳: In review
