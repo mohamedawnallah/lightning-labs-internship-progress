@@ -64,8 +64,7 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity                                                               | Role   | Artifact |
 |:------:|:------|:-----------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | May 20 - 23   | query: add OnMaxTries                                           | Reviewer | [PR #308](https://github.com/lightninglabs/neutrino/pull/308) |
-| ⬜     | May 20 - 23   | peer, main, netsync, blockchain: parallel block downloads       | Reviewer | [PR #2226](https://github.com/btcsuite/btcd/pull/2226)        |
+| ⏳     | May 20 - 23   | peer, main, netsync, blockchain: parallel block downloads       | Reviewer | [PR #2226](https://github.com/btcsuite/btcd/pull/2226)        |
 
 ---
 
@@ -73,8 +72,8 @@ A personal repository to track my progress during my internship at Lightning Lab
 
 | Status | Period | Activity                                                                                      | Role   | Artifact |
 |:------:|:------|:----------------------------------------------------------------------------------------------|:------:|:--------:|
-| ⬜     | May 26 - Jun 2   | Write design document for parallel header download using header checkpoints                    | Author | —        |
-| ⬜     | May 26 - Jun 2   | Outline and prioritize milestones for parallel header download via checkpoints                 | Author | —        |
+| ⬜     | TBD   | Write design document for parallel header download using header checkpoints                    | Author | —        |
+| ⬜     | TBD   | Outline and prioritize milestones for parallel header download via checkpoints                 | Author | —        |
 
 ---        
 
